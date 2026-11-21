@@ -1,0 +1,8 @@
+{
+  "name": "Bounce Back: After the Fall",
+  "description": "A 2D top-down pixel-art open-world adventure RPG about exploring a fallen civilization, helping survivors, and restoring the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

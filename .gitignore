@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build & generated output
+build/
+dist/
+coverage/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Local tooling & AI/browser test artifacts
+.playwright-cli/
+.aistudio/
+playwright-report/
+test-results/
+tmp/
+temp/
+
+# Environment & secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local editor & OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.local
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+
